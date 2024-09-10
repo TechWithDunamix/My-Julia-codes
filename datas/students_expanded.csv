@@ -1,0 +1,201 @@
+id,name,age,gender,grade,score,graduated,major,email
+1,John Doe,20,M,3,85,true,Computer Science,johndoe@example.com
+2,Jane Smith,22,F,4,90,true,Mathematics,janesmith@example.com
+3,Robert Brown,19,M,2,78,false,Engineering,robertbrown@example.com
+4,Emily Davis,21,F,3,88,true,Physics,emilydavis@example.com
+5,Michael Johnson,23,M,4,91,true,Computer Science,michaeljohnson@example.com
+6,Jessica Wilson,20,F,2,82,false,Biology,jessicawilson@example.com
+7,Daniel Martinez,22,M,4,87,true,Mathematics,danielmartinez@example.com
+8,Amy Lee,19,F,1,75,false,Engineering,amylee@example.com
+9,Matthew Taylor,21,M,3,85,true,Computer Science,matthewtaylor@example.com
+10,Sarah Anderson,23,F,4,92,true,Physics,sarahanderson@example.com
+11,David Thompson,20,M,2,80,false,Biology,davidthompson@example.com
+12,Linda Martinez,22,F,3,84,true,Mathematics,lindamartinez@example.com
+13,James Williams,19,M,1,77,false,Engineering,jameswilliams@example.com
+14,Mary Moore,21,F,4,89,true,Physics,marymoore@example.com
+15,Robert Taylor,23,M,3,86,true,Computer Science,roberttaylor@example.com
+16,Nancy Davis,20,F,2,81,false,Biology,nancydavis@example.com
+17,Christopher Harris,22,M,4,92,true,Mathematics,christopherharris@example.com
+18,Elizabeth Clark,19,F,1,74,false,Engineering,elizabethclark@example.com
+19,Daniel Allen,21,M,3,84,true,Computer Science,danielallen@example.com
+20,Laura Wilson,23,F,4,90,true,Physics,laurawilson@example.com
+21,Steven Adams,20,M,2,79,false,Biology,stevenadams@example.com
+22,Jessica Young,22,F,3,83,true,Mathematics,jessicayoung@example.com
+23,Andrew Scott,19,M,1,76,false,Engineering,andrewscott@example.com
+24,Kimberly Wright,21,F,4,87,true,Physics,kimberlywright@example.com
+25,Matthew Lewis,23,M,3,85,true,Computer Science,matthewlewis@example.com
+26,Susan Baker,20,F,2,80,false,Biology,susanbaker@example.com
+27,James Taylor,22,M,4,89,true,Mathematics,jamestaylor@example.com
+28,Emily Harris,19,F,1,73,false,Engineering,emilyharris@example.com
+29,John Moore,21,M,3,82,true,Computer Science,johnmoore@example.com
+30,Patricia Allen,23,F,4,91,true,Physics,patriciaallen@example.com
+31,Michael Anderson,20,M,2,77,false,Biology,michaelanderson@example.com
+32,Jessica Turner,22,F,3,84,true,Mathematics,jessicaturner@example.com
+33,David Martin,19,M,1,75,false,Engineering,davidmartin@example.com
+34,Laura Adams,21,F,4,88,true,Physics,lauraadams@example.com
+35,William Clark,23,M,3,86,true,Computer Science,williamclark@example.com
+36,Nancy Johnson,20,F,2,79,false,Biology,nancyjohnson@example.com
+37,Robert Thompson,22,M,4,90,true,Mathematics,robertthompson@example.com
+38,Amy Moore,19,F,1,74,false,Engineering,amymoore@example.com
+39,James Wilson,21,M,3,84,true,Computer Science,jameswilson@example.com
+40,Susan Scott,23,F,4,92,true,Physics,susanscott@example.com
+41,David Young,20,M,2,78,false,Biology,davidyoung@example.com
+42,Jessica Smith,22,F,3,81,true,Mathematics,jessicasmith@example.com
+43,Michael Harris,19,M,1,76,false,Engineering,michaelharris@example.com
+44,Laura Clark,21,F,4,87,true,Physics,lauraclark@example.com
+45,Andrew Johnson,23,M,3,89,true,Computer Science,andrewjohnson@example.com
+46,Nancy Lewis,20,F,2,82,false,Biology,nancylewis@example.com
+47,Robert Davis,22,M,4,91,true,Mathematics,robertdavis@example.com
+48,Emily Walker,19,F,1,73,false,Engineering,emilywalker@example.com
+49,James Brown,21,M,3,85,true,Computer Science,jamesbrown@example.com
+50,Susan Martin,23,F,4,90,true,Physics,susanmartin@example.com
+51,Michael Adams,20,M,2,80,false,Biology,michaeladams@example.com
+52,Jessica Wilson,22,F,3,84,true,Mathematics,jessicawilson@example.com
+53,David Moore,19,M,1,77,false,Engineering,davidmoore@example.com
+54,Laura Lewis,21,F,4,88,true,Physics,lauralewis@example.com
+55,William Scott,23,M,3,86,true,Computer Science,williamscott@example.com
+56,Nancy Harris,20,F,2,81,false,Biology,nancyharris@example.com
+57,Robert Taylor,22,M,4,90,true,Mathematics,roberttaylor@example.com
+58,Emily Johnson,19,F,1,74,false,Engineering,emilyjohnson@example.com
+59,James Davis,21,M,3,83,true,Computer Science,jamesdavis@example.com
+60,Susan Walker,23,F,4,92,true,Physics,susanwalker@example.com
+61,Michael Clark,20,M,2,78,false,Biology,michaelclark@example.com
+62,Jessica Brown,22,F,3,85,true,Mathematics,jessicabrown@example.com
+63,David Smith,19,M,1,76,false,Engineering,davidsmith@example.com
+64,Laura Adams,21,F,4,90,true,Physics,lauraadams@example.com
+65,William Harris,23,M,3,87,true,Computer Science,williamharris@example.com
+66,Nancy Scott,20,F,2,79,false,Biology,nancyscott@example.com
+67,Robert Johnson,22,M,4,92,true,Mathematics,robertjohnson@example.com
+68,Emily Thompson,19,F,1,75,false,Engineering,emilythompson@example.com
+69,James Walker,21,M,3,84,true,Computer Science,jameswalker@example.com
+70,Susan Brown,23,F,4,91,true,Physics,susanbrown@example.com
+71,Michael Davis,20,M,2,77,false,Biology,michaeldavis@example.com
+72,Jessica Clark,22,F,3,83,true,Mathematics,jessicaclark@example.com
+73,David Johnson,19,M,1,74,false,Engineering,davidjohnson@example.com
+74,Laura Smith,21,F,4,86,true,Physics,laurasmith@example.com
+75,William Wilson,23,M,3,88,true,Computer Science,williamwilson@example.com
+76,Nancy Taylor,20,F,2,80,false,Biology,nancytaylor@example.com
+77,Robert Adams,22,M,4,89,true,Mathematics,robertadams@example.com
+78,Emily Davis,19,F,1,77,false,Engineering,emilydavis@example.com
+79,James Scott,21,M,3,82,true,Computer Science,jamesscott@example.com
+80,Susan Clark,23,F,4,90,true,Physics,susanclark@example.com
+81,Michael Taylor,20,M,2,81,false,Biology,michaeltaylor@example.com
+82,Jessica Davis,22,F,3,84,true,Mathematics,jessicadavis@example.com
+83,David Clark,19,M,1,78,false,Engineering,davidclark@example.com
+84,Laura Walker,21,F,4,87,true,Physics,laurawalker@example.com
+85,William Adams,23,M,3,85,true,Computer Science,williamadams@example.com
+86,Nancy Johnson,20,F,2,79,false,Biology,nancyjohnson@example.com
+87,Robert Brown,22,M,4,91,true,Mathematics,robertbrown@example.com
+88,Emily Smith,19,F,1,74,false,Engineering,emilysmith@example.com
+89,James Johnson,21,M,3,86,true,Computer Science,jamesjohnson@example.com
+90,Susan Davis,23,F,4,92,true,Physics,susandavis@example.com
+91,Michael Walker,20,M,2,77,false,Biology,michaelwalker@example.com
+92,Jessica Johnson,22,F,3,80,true,Mathematics,jessicajohnson@example.com
+93,David Adams,19,M,1,75,false,Engineering,davidadams@example.com
+94,Laura Brown,21,F,4,89,true,Physics,laurabrown@example.com
+95,William Davis,23,M,3,88,true,Computer Science,williamdavis@example.com
+96,Nancy Wilson,20,F,2,82,false,Biology,nancywilson@example.com
+97,Robert Clark,22,M,4,90,true,Mathematics,robertclark@example.com
+98,Emily Johnson,19,F,1,76,false,Engineering,emilyjohnson@example.com
+99,James Brown,21,M,3,84,true,Computer Science,jamesbrown@example.com
+100,Susan Walker,23,F,4,91,true,Physics,susanwalker@example.com
+101,Michael Harris,20,M,2,79,false,Biology,michaelharris@example.com
+102,Jessica Adams,22,F,3,83,true,Mathematics,jessicaadams@example.com
+103,David Johnson,19,M,1,77,false,Engineering,davidjohnson@example.com
+104,Laura Scott,21,F,4,86,true,Physics,laurascott@example.com
+105,William Clark,23,M,3,90,true,Computer Science,williamclark@example.com
+106,Nancy Brown,20,F,2,81,false,Biology,nancybrown@example.com
+107,Robert Smith,22,M,4,88,true,Mathematics,robertsmith@example.com
+108,Emily Wilson,19,F,1,75,false,Engineering,emilywilson@example.com
+109,James Taylor,21,M,3,85,true,Computer Science,jamestaylor@example.com
+110,Susan Johnson,23,F,4,92,true,Physics,susanjohnson@example.com
+111,Michael Davis,20,M,2,80,false,Biology,michaeldavis@example.com
+112,Jessica Brown,22,F,3,84,true,Mathematics,jessicabrown@example.com
+113,David Scott,19,M,1,78,false,Engineering,davidscott@example.com
+114,Laura Harris,21,F,4,89,true,Physics,lauraharris@example.com
+115,William Johnson,23,M,3,87,true,Computer Science,williamjohnson@example.com
+116,Nancy Davis,20,F,2,79,false,Biology,nancydavis@example.com
+117,Robert Thompson,22,M,4,91,true,Mathematics,robertthompson@example.com
+118,Emily Taylor,19,F,1,74,false,Engineering,emilytaylor@example.com
+119,James Walker,21,M,3,84,true,Computer Science,jameswalker@example.com
+120,Susan Davis,23,F,4,90,true,Physics,susandavis@example.com
+121,Michael Thompson,20,M,2,77,false,Biology,michaelthompson@example.com
+122,Jessica Harris,22,F,3,85,true,Mathematics,jessicaharris@example.com
+123,David Brown,19,M,1,76,false,Engineering,davidbrown@example.com
+124,Laura Johnson,21,F,4,87,true,Physics,laurajohnson@example.com
+125,William Scott,23,M,3,88,true,Computer Science,williamscott@example.com
+126,Nancy Clark,20,F,2,82,false,Biology,nancyclark@example.com
+127,Robert Walker,22,M,4,90,true,Mathematics,robertwalker@example.com
+128,Emily Adams,19,F,1,75,false,Engineering,emilyadams@example.com
+129,James Harris,21,M,3,86,true,Computer Science,jamesharris@example.com
+130,Susan Martin,23,F,4,91,true,Physics,susanmartin@example.com
+131,Michael Scott,20,M,2,80,false,Biology,michaelscott@example.com
+132,Jessica Smith,22,F,3,84,true,Mathematics,jessicasmith@example.com
+133,David Johnson,19,M,1,77,false,Engineering,davidjohnson@example.com
+134,Laura Brown,21,F,4,88,true,Physics,laurabrown@example.com
+135,William Davis,23,M,3,85,true,Computer Science,williamdavis@example.com
+136,Nancy Adams,20,F,2,79,false,Biology,nancyadams@example.com
+137,Robert Harris,22,M,4,91,true,Mathematics,robertharris@example.com
+138,Emily Clark,19,F,1,74,false,Engineering,emilyclark@example.com
+139,James Scott,21,M,3,84,true,Computer Science,jamesscott@example.com
+140,Susan Wilson,23,F,4,90,true,Physics,susanwilson@example.com
+141,Michael Lewis,20,M,2,77,false,Biology,michaellewis@example.com
+142,Jessica Wilson,22,F,3,82,true,Mathematics,jessicawilson@example.com
+143,David Smith,19,M,1,75,false,Engineering,davidsmith@example.com
+144,Laura Adams,21,F,4,87,true,Physics,lauraadams@example.com
+145,William Johnson,23,M,3,86,true,Computer Science,williamjohnson@example.com
+146,Nancy Scott,20,F,2,81,false,Biology,nancyscott@example.com
+147,Robert Clark,22,M,4,89,true,Mathematics,robertclark@example.com
+148,Emily Davis,19,F,1,77,false,Engineering,emilydavis@example.com
+149,James Brown,21,M,3,85,true,Computer Science,jamesbrown@example.com
+150,Susan Walker,23,F,4,92,true,Physics,susanwalker@example.com
+151,Michael Harris,20,M,2,78,false,Biology,michaelharris@example.com
+152,Jessica Adams,22,F,3,84,true,Mathematics,jessicaadams@example.com
+153,David Johnson,19,M,1,76,false,Engineering,davidjohnson@example.com
+154,Laura Scott,21,F,4,88,true,Physics,laurascott@example.com
+155,William Clark,23,M,3,90,true,Computer Science,williamclark@example.com
+156,Nancy Brown,20,F,2,82,false,Biology,nancybrown@example.com
+157,Robert Smith,22,M,4,91,true,Mathematics,robertsmith@example.com
+158,Emily Wilson,19,F,1,74,false,Engineering,emilywilson@example.com
+159,James Taylor,21,M,3,84,true,Computer Science,jamestaylor@example.com
+160,Susan Johnson,23,F,4,90,true,Physics,susanjohnson@example.com
+161,Michael Davis,20,M,2,80,false,Biology,michaeldavis@example.com
+162,Jessica Brown,22,F,3,84,true,Mathematics,jessicabrown@example.com
+163,David Scott,19,M,1,78,false,Engineering,davidscott@example.com
+164,Laura Harris,21,F,4,89,true,Physics,lauraharris@example.com
+165,William Johnson,23,M,3,87,true,Computer Science,williamjohnson@example.com
+166,Nancy Davis,20,F,2,79,false,Biology,nancydavis@example.com
+167,Robert Thompson,22,M,4,91,true,Mathematics,robertthompson@example.com
+168,Emily Taylor,19,F,1,74,false,Engineering,emilytaylor@example.com
+169,James Walker,21,M,3,84,true,Computer Science,jameswalker@example.com
+170,Susan Davis,23,F,4,90,true,Physics,susandavis@example.com
+171,Michael Thompson,20,M,2,77,false,Biology,michaelthompson@example.com
+172,Jessica Harris,22,F,3,85,true,Mathematics,jessicaharris@example.com
+173,David Brown,19,M,1,76,false,Engineering,davidbrown@example.com
+174,Laura Johnson,21,F,4,87,true,Physics,laurajohnson@example.com
+175,William Scott,23,M,3,88,true,Computer Science,williamscott@example.com
+176,Nancy Clark,20,F,2,80,false,Biology,nancyclark@example.com
+177,Robert Walker,22,M,4,90,true,Mathematics,robertwalker@example.com
+178,Emily Adams,19,F,1,75,false,Engineering,emilyadams@example.com
+179,James Harris,21,M,3,86,true,Computer Science,jamesharris@example.com
+180,Susan Martin,23,F,4,91,true,Physics,susanmartin@example.com
+181,Michael Scott,20,M,2,80,false,Biology,michaelscott@example.com
+182,Jessica Smith,22,F,3,84,true,Mathematics,jessicasmith@example.com
+183,David Johnson,19,M,1,77,false,Engineering,davidjohnson@example.com
+184,Name184,18,F,3,74,true,Computer Science,name184@example.com
+185,Name185,24,M,3,98,true,Computer Science,name185@example.com
+186,Name186,18,F,2,89,false,Biology,name186@example.com
+187,Name187,21,F,3,89,true,Mathematics,name187@example.com
+188,Name188,19,M,3,68,true,Engineering,name188@example.com
+189,Name189,21,F,4,100,true,Computer Science,name189@example.com
+190,Name190,23,M,1,65,true,Computer Science,name190@example.com
+191,Name191,20,M,2,71,false,Biology,name191@example.com
+192,Name192,19,M,4,62,true,Engineering,name192@example.com
+193,Name193,25,F,4,96,true,Biology,name193@example.com
+194,Name194,22,F,2,69,true,Mathematics,name194@example.com
+195,Name195,25,F,4,95,true,Computer Science,name195@example.com
+196,Name196,19,M,3,63,true,Mathematics,name196@example.com
+197,Name197,19,M,4,87,true,Biology,name197@example.com
+198,Name198,25,F,2,98,false,Engineering,name198@example.com
+199,Name199,20,F,2,92,true,Biology,name199@example.com
+200,Name200,18,F,1,71,true,Mathematics,name200@example.com
