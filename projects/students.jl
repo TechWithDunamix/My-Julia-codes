@@ -12,7 +12,7 @@ using StatsPlots
 
 pyplot()
 
-df = CSV.read("../datas/students.csv", DataFrame)
+df = CSV.read("./datas/students.csv", DataFrame)
 
 println("First few rows of the DataFrame:")
 println(first(df, 5))
@@ -45,7 +45,7 @@ additional_rows = DataFrame(
 
 df_expanded = vcat(df, additional_rows)
 println("\nExpanded DataFrame saved to 'students_expanded.csv'.")
-CSV.write("../datas/students_expanded.csv", df_expanded)
+CSV.write("./datas/students_expanded.csv", df_expanded)
 
 # Plot 1: Histogram
 histogram(df_expanded.score, title="Distribution of Scores", xlabel="Score", ylabel="Frequency", bins=20)
