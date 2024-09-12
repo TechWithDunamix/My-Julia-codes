@@ -182,20 +182,20 @@ id,name,age,gender,grade,score,graduated,major,email
 181,Michael Scott,20,M,2,80,false,Biology,michaelscott@example.com
 182,Jessica Smith,22,F,3,84,true,Mathematics,jessicasmith@example.com
 183,David Johnson,19,M,1,77,false,Engineering,davidjohnson@example.com
-184,Name184,18,F,3,74,true,Computer Science,name184@example.com
-185,Name185,24,M,3,98,true,Computer Science,name185@example.com
-186,Name186,18,F,2,89,false,Biology,name186@example.com
-187,Name187,21,F,3,89,true,Mathematics,name187@example.com
-188,Name188,19,M,3,68,true,Engineering,name188@example.com
-189,Name189,21,F,4,100,true,Computer Science,name189@example.com
-190,Name190,23,M,1,65,true,Computer Science,name190@example.com
-191,Name191,20,M,2,71,false,Biology,name191@example.com
-192,Name192,19,M,4,62,true,Engineering,name192@example.com
-193,Name193,25,F,4,96,true,Biology,name193@example.com
-194,Name194,22,F,2,69,true,Mathematics,name194@example.com
-195,Name195,25,F,4,95,true,Computer Science,name195@example.com
-196,Name196,19,M,3,63,true,Mathematics,name196@example.com
-197,Name197,19,M,4,87,true,Biology,name197@example.com
-198,Name198,25,F,2,98,false,Engineering,name198@example.com
-199,Name199,20,F,2,92,true,Biology,name199@example.com
-200,Name200,18,F,1,71,true,Mathematics,name200@example.com
+184,Name184,24,M,1,84,false,Computer Science,name184@example.com
+185,Name185,20,M,3,78,true,Computer Science,name185@example.com
+186,Name186,22,F,1,70,false,Computer Science,name186@example.com
+187,Name187,20,F,2,92,true,Engineering,name187@example.com
+188,Name188,23,M,1,77,false,Mathematics,name188@example.com
+189,Name189,19,M,4,98,false,Engineering,name189@example.com
+190,Name190,22,M,2,75,true,Biology,name190@example.com
+191,Name191,19,M,4,71,true,Biology,name191@example.com
+192,Name192,23,M,2,77,true,Mathematics,name192@example.com
+193,Name193,23,F,3,60,false,Biology,name193@example.com
+194,Name194,22,M,3,91,false,Engineering,name194@example.com
+195,Name195,21,M,4,76,false,Biology,name195@example.com
+196,Name196,20,M,3,68,false,Computer Science,name196@example.com
+197,Name197,20,M,2,68,true,Mathematics,name197@example.com
+198,Name198,21,M,3,79,false,Physics,name198@example.com
+199,Name199,25,M,2,100,true,Mathematics,name199@example.com
+200,Name200,25,F,2,89,false,Computer Science,name200@example.com

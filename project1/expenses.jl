@@ -59,7 +59,7 @@ function plot_monthly_trends(df::DataFrame)
     plot(monthly_summary.month, monthly_summary.total_amount, seriestype=:line, xlabel="Month", ylabel="Total Amount", title="Monthly Expense Trends")
 end
 
-filename = "expenses.csv"
+filename = "../expenses.csv"
 df = initialize_expense_tracker(filename)
 
 add_expense!(df, Date("2024-09-01"), 50.0, "Food")

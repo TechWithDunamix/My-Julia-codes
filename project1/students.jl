@@ -4,8 +4,13 @@ using Statistics
 using Random
 using Plots
 using StatsPlots
+# using IJulia
+# notebook()
 
-gr()
+
+
+
+pyplot()
 
 df = CSV.read("../datas/students.csv", DataFrame)
 
@@ -42,15 +47,15 @@ df_expanded = vcat(df, additional_rows)
 println("\nExpanded DataFrame saved to 'students_expanded.csv'.")
 CSV.write("../datas/students_expanded.csv", df_expanded)
 
+# Plot 1: Histogram
 histogram(df_expanded.score, title="Distribution of Scores", xlabel="Score", ylabel="Frequency", bins=20)
-display(plot())
 
+# Plot 2: Bar chart
 bar(num_grads_by_major.major, num_grads_by_major.num_grads, title="Number of Graduates by Major", 
     xlabel="Major", ylabel="Number of Graduates", legend=false)
-display(plot())
 
+# Plot 3: Scatter plot
 scatter(df_expanded.age, df_expanded.score, title="Scores by Age", xlabel="Age", ylabel="Score", 
     label="", color=:blue)
-display(plot())
 
 sleep(60)
